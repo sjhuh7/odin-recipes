@@ -1,0 +1,1 @@
+The purpose of this project is to test my HTML knowledge that I have aqquired. In this project we are going to create a website that will contain links to a number of recipes.
